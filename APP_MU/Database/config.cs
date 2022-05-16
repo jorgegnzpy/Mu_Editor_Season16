@@ -8,10 +8,10 @@ namespace APP_MU.Database
 {
     internal class config
     {
-        public static string server;
-        public static string port;
-        public static string database;
-        public static string user;
-        public static string password;
+        public static string server;192.168.0.15
+        public static string port;55960
+        public static string database;MuOnline
+        public static string user;sa
+        public static string password;566047
     }
 }
